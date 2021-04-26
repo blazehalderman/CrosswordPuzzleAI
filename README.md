@@ -5,10 +5,12 @@ Python Crossword Puzzle AI created using arc consistency and backtracking
 
 Find structure and words files within the data directory to use for the puzzle ex. (data/`structure file` data/`words file`)
 Run the following command with your chosen files:
-  python generate.py data/structure file.txt data/words file.txt output.png
-
+```
+python generate.py data/structure file.txt data/words file.txt output.png
+```
 The resulting puzzle will appear with the words filled in for that specific puzzle using an arc consistency and backtracking!
 
+```
   ██████████████
   ███████M████R█
   █INTELLIGENCE█
@@ -18,3 +20,4 @@ The resulting puzzle will appear with the words filled in for that specific puzz
   █R███SEARCH█V█
   ███████X████E█
   ██████████████
+```
