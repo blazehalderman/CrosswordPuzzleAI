@@ -9,12 +9,12 @@ Run the following command with your chosen files:
 
 The resulting puzzle will appear with the words filled in for that specific puzzle using an arc consistency and backtracking!
 
-██████████████
-███████M████R█
-█INTELLIGENCE█
-█N█████N████S█
-█F██LOGIC███O█
-█E█████M████L█
-█R███SEARCH█V█
-███████X████E█
-██████████████
+  ██████████████
+  ███████M████R█
+  █INTELLIGENCE█
+  █N█████N████S█
+  █F██LOGIC███O█
+  █E█████M████L█
+  █R███SEARCH█V█
+  ███████X████E█
+  ██████████████
